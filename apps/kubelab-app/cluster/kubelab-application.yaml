@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: apps/kubelab-app
-    repoURL: https://github.com/TimLinsenmayer/kubelab-incluster
+    repoURL: https://github.com/DaveCodes26/kubelab-incluster.git
     targetRevision: HEAD
   syncPolicy:
     automated: {}  
